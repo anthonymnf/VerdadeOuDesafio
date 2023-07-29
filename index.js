@@ -24,19 +24,20 @@ const verdade = [
 const desafio = [
   "Diga ao seu amor que o(a) ama de 5 maneiras diferentes",
   "Diga 3 coisas que você admira no seu companheiro(a)",
-  "Faça 5 minutos de massagem no seu amor (ele(a) escolhe onde)",
+  "Faça um pouco de massagem no seu amor (ele(a) escolhe onde)",
   "Tire uma peça de roupa",
   "Diga algo provocante para seu amor",
   "Fale de seus planos para um futuro juntos",
   "Dê um beijo no seu amor, onde você quiser",
   "Dê um longo e demorado abraço",
   "Dê um longo e demorado beijo na boca",
-  "Pausa de 5 minutos para carinhos",
+  "Pausa de um pouco para carinhos",
   "Tire uma peça de roupa",
   "Beije a região que mais gosta nele(a)",
   "Mande uma foto sensual",
   "Tire uma peça de roupa",
-  "Sussurre algo quente no ouvido dele(a) ",
+  "Sussurre algo quente no ouvido dele(a)",
+  "Provoque ele(a)",
 ];
 
 function sortear(array) {
